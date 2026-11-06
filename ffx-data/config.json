@@ -1,0 +1,20 @@
+{
+  "logo": null,
+  "ffBanner": null,
+  "ffPackages": null,
+  "banners": null,
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": "https://t.me/zoom_topup"
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ]
+}
